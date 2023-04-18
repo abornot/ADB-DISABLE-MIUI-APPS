@@ -42,4 +42,4 @@
 
 ### 5. 注意
 
-adb 安装 App 时提示 Failure [INSTALL_FAILED_USER_RESTRICTED: Install canceled by user]，把启用 MIUI 优化关闭就行了。
+安装 App 时提示 Failure [INSTALL_FAILED_USER_RESTRICTED: Install canceled by user]，关闭启用 MIUI 优化即可。
